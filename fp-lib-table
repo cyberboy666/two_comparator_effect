@@ -1,0 +1,6 @@
+(fp_lib_table
+  (lib (name lib_fp)(type KiCad)(uri /Users/timcaldwell/personal/robs-whiteboard-funhouse-companion-circuits/lib_fp.pretty)(options "")(descr ""))
+  (lib (name two_comparator_effect)(type KiCad)(uri ${KIPRJMOD}/two_comparator_effect.pretty)(options "")(descr ""))
+  (lib (name lib_fb)(type KiCad)(uri ${KIPRJMOD}/lib_fb.pretty)(options "")(descr ""))
+  (lib (name lib)(type KiCad)(uri ${KIPRJMOD}/lib.pretty)(options "")(descr ""))
+)
