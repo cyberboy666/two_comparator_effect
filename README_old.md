@@ -1,6 +1,8 @@
 
 # two_comparator_effect
 
+### analog video posterisation effect - adapted from a rob schafer design 
+
 ![image](https://user-images.githubusercontent.com/12017938/99150392-944cab80-2694-11eb-8207-11434fbdeb30.png)
 
 
