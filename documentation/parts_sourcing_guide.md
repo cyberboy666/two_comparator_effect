@@ -6,7 +6,7 @@ i try to source all the parts i can from either:
 - [mouser](https://www.mouser.de/) ; has lots more options, speciality video ic's, can sometimes cost more (free shipping on orders over 50euros)
 - other ; ocationally there will be parts which will need to be sourced elsewhere - usaully either aliexpress, ebay or amazon etc...
 
-take a look at the full_bom for this project to see where i am sourcing the parts from
+take a look at the full_bom for this project to see where i am sourcing each part from
 
 ## import into tayda
 
