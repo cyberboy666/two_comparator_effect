@@ -13,7 +13,7 @@ take a look at the full_bom for this project to see where i am sourcing the part
 - go to the [tayda quick order](https://www.taydaelectronics.com/quick-order/) and in bottom corner choose _add from file_
 - select the file [tayda_bom.csv](../hardware/bom/tayda_bom.csv) in the BOM folder (you will have to download it first or clone this repo)
 - after importing select _add to cart_
-- __NOTE:__ the minimum value for resistors is 10, so you may need to modify these values to add to cart (or if they are already modified you will need to see the actual BOM for some part qty) 
+- __NOTE:__ the minimum value for resistors is 10, so you may need to modify these values to add to cart (or if they are already modified here you will need to see the  full_bom for actual part QTY) 
 
 ## import into mouser
 
