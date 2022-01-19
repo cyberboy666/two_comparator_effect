@@ -21,3 +21,12 @@ take a look at the full_bom for this project to see where i am sourcing each par
 - select the file [mouser_bom.csv](../hardware/bom/mouser_bom.csv) in this folder (you will have to download it first or clone this repo), then _upload my spreadsheet_ and _next_
 - ensure that __Mouser Part Number__ is selected in the dropdown above the first row, then _next_, _process_
 - if everything looks correct can now put _add to basket_
+
+# ordering pcbs
+
+you can support this project by buying individual pcbs from the [shop](https://underscores.shop). if you would rather have pcbs fabricated from gerbers directly the file you need is a `.zip` in `hardware` folder - `two_comparator_effect_vX_X_X.zip`
+
+- i get my pcbs fabricated from [jlcpcb](https://cart.jlcpcb.com/quote) - 5 is the minumum order per design
+- upload the zip file with the `add gerber file` button
+- the default settings are mostly fine - set the __PCB Qty__ and __PCB Color__ settings (you can check that the file looks correct with pcb veiwer)
+- it may be best to combine orders with other pcbs you want to have fab'd since the shipping can cost more than the items - also orginising group buys is a good way to distribute the extra pcbs /costs 
