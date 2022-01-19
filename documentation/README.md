@@ -4,6 +4,6 @@ this project is fully open-source hardware - all the files required to build it 
 
 depending on whether you are going fully diy or buying an assembled and tested unit, some of the following guides will be relavent to you. the flow would be:
 
-- parts sourcing guide (w/ notes on pcb fabracation ) - start here if you are building fully from scatch or have purchased a pcb
-- assembly guide - start here if you have purchased a diy kit
-- operating guide - start here if you have purchased an assembled unit
+- [parts sourcing guide](./parts_sourcing_guide.md) (w/ notes on pcb fabracation ) - start here if you are building fully from scatch or have purchased a pcb
+- [assembly guide](./assembly_guide.md) - start here if you have purchased a diy kit
+- [operating guide](./operating_guide.md) - start here if you have purchased an assembled unit
