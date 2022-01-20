@@ -3,7 +3,9 @@
 
 ![image](https://user-images.githubusercontent.com/12017938/150422990-b99b74ae-0009-4dd7-946b-c375e2f60bf9.png)
 
-this circuit is availible to purchase - as a pcb, kit or assembled unit - at [underscores.shop/two_comparator_effect/](https://underscores.shop/two_comparator_effect/)
+- this circuit is distributed by __UNDERSCORES__ - _an open video hardware label_ : it is availible to purchase - as a pcb, kit or assembled unit - at [underscores.shop](https://underscores.shop/two_comparator_effect/)
+- the schematic for the circuit can be found [here](/hardware/two_comparator_effect.pdf)
+- the pcb gerber files for the lastest version can be found [here](/hardware/two_comparator_effect_lastest.zip)
 
 ## demo video
 
