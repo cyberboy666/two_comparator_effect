@@ -1,6 +1,6 @@
 # documentation
 
-this project is fully __open-source hardware__ - all the files required to build it are included in this repo for free. if you have the time and/or skill you can contribute back by collaborating on / testing new designs, improving these docs, making demo videos/other creative content etc. you can also support the project financially by donating directing, or purchasing through the [web shop](https://underscores.shop).
+this project is fully _open-source hardware_ - all the files required to build it are included in this repo for free. if you have the time and/or skill you can contribute back by collaborating on / testing new designs, improving these docs, making demo videos/other creative content etc. you can also support the project financially by donating directing, or purchasing through the [web shop](https://underscores.shop).
 
 depending on whether you are going fully diy or buying an assembled and tested unit, some of the following guides will be relavent to you. the flow would be:
 
@@ -90,7 +90,7 @@ follow this link to view the [interactive BOM](https://htmlpreview.github.io/?ht
 
 </details>
 
-## more info
+### more info
 
 <details><summary><b>how the circuit works</b></summary>
   
@@ -137,3 +137,10 @@ This circuit is designed for use with gray-scale video input where no sub-carrie
 
 glitch artifacts are also created when the comparator thresholds are set below the _black-level_ of the video signal, causing the signal to lose sync. 
                                                                                                                              
+</details>
+
+<details><summary><b>contributing guide</b></summary>
+  
+if you would like to contribute back to these projects in some way but dont know how the best thing (for now) would be to reach out to me directly ( tim@cyberboy666.com or @cyberboy666 on scanlines forum) - i will be happy to help
+  
+</details>
