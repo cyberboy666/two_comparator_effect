@@ -1,7 +1,8 @@
-sku,qty,ref,val
+sku,qty,ref,val,vendor
 A-321,3,C3 C2 C1 ,1u,tayda
 A-214,1,C4 ,0.1u,tayda
 A-615,1,D1 ,1n914,tayda
+490-RCJ-024,2,J2 J1 ,rca,mouser
 A-4118,1,J3 ,Barrel_Jack,tayda
 A-111,1,Q1 ,2N3904,tayda
 A-2190,1,R11 ,47,tayda
@@ -15,5 +16,6 @@ A-2281,1,R6 ,680,tayda
 A-2201,3,R7 R4 R3 ,1.2k,tayda
 A-2193,2,R8 R10 ,75,tayda
 A-2210,1,R9 ,150k,tayda
+652-PTV09A-4025FB102,2,RV2 RV1 ,1k_pot,mouser
 A-022,1,U1 ,LM339,tayda
 A-500,1,U2 ,LM317,tayda

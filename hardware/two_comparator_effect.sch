@@ -5,10 +5,10 @@ $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
 Title "Two Comparator Effect"
-Date "2020-06-13"
-Rev ""
-Comp "circuit designed by Rob Schafer"
-Comment1 ""
+Date "2022-01-21"
+Rev "v0_3_1"
+Comp "original design by Rob Schafer"
+Comment1 "updated by cyberboy666"
 Comment2 ""
 Comment3 ""
 Comment4 ""
