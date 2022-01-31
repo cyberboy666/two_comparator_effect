@@ -4,7 +4,7 @@
 ![image](https://user-images.githubusercontent.com/12017938/150422990-b99b74ae-0009-4dd7-946b-c375e2f60bf9.png)
 
 - this circuit is distributed by __UNDERSCORES__ - _an open video hardware label_ : it is availible to purchase - as a pcb, kit or assembled unit - at [underscores.shop](https://underscores.shop/two_comparator_effect/)
-- the schematic for the circuit can be found [here](/hardware/two_comparator_effect.pdf)
+- the schematic for the circuit can be found [here](/hardware/schematic.pdf)
 - the pcb gerber files for the lastest version can be found [here](/hardware/two_comparator_effect_latest.zip)
 
 ## demo video
@@ -45,7 +45,7 @@ i try to source all the parts i can from either:
 - [mouser](https://www.mouser.de/) ; has lots more options, speciality video ic's, can sometimes cost more (free shipping on orders over 50euros)
 - other ; ocationally there will be parts which will need to be sourced elsewhere - usaully either aliexpress, ebay or amazon etc...
 
-take a look at the full_bom for this project to see where i am sourcing each part from
+take a look at the [full_bom](/hardware/bom/full_bom.csv) for this project to see where i am sourcing each part from
 
 ## import into tayda
 
@@ -63,7 +63,7 @@ take a look at the full_bom for this project to see where i am sourcing each par
 
 # ordering pcbs
 
-you can support this project by buying individual pcbs from the [shop](https://underscores.shop). if you would rather have pcbs fabricated from gerbers directly the file you need is a `.zip` in `hardware` folder - `two_comparator_effect_vX_X_X.zip`
+you can support this project by buying individual pcbs from the [shop](https://underscores.shop). if you would rather have pcbs fabricated from gerbers directly the file you need is [here](/hardware/two_comparator_effect_latest.zip)
 
 - i get my pcbs fabricated from [jlcpcb](https://cart.jlcpcb.com/quote) - 5 is the minumum order per design
 - upload the zip file with the `add gerber file` button
