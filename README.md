@@ -3,7 +3,7 @@
 
 ![image](https://user-images.githubusercontent.com/12017938/150422990-b99b74ae-0009-4dd7-946b-c375e2f60bf9.png)
 
-- this circuit is distributed by __UNDERSCORES__ - _an open video hardware label_ : it is availible to purchase - as a pcb, kit or assembled unit - at [underscores.shop](https://underscores.shop/two_comparator_effect/)
+- this circuit is distributed by __UNDERSCORES__ - _an open video hardware label_ : it is available to purchase - as a pcb, kit or assembled unit - at [underscores.shop](https://underscores.shop/two_comparator_effect/)
 - the schematic for the circuit can be found [here](/hardware/schematic.pdf)
 - the pcb gerber files for the lastest version can be found [here](/hardware/two_comparator_effect_latest.zip)
 
@@ -69,6 +69,8 @@ you can support this project by buying individual pcbs from the [shop](https://u
 - upload the zip file with the `add gerber file` button
 - the default settings are mostly fine - set the __PCB Qty__ and __PCB Color__ settings (you can check that the file looks correct with pcb veiwer)
 - it may be best to combine orders with other pcbs you want to have fab'd since the shipping can cost more than the items - also orginising group buys is a good way to distribute the extra pcbs /costs 
+  
+i often use jlcpcb because they are reliable, cheap and give you an option of colours. remember though that the cheapest Chinese fab houses are not always the most ethical or environmently friendly - if you can afford it consider supporting local companies. 
 
   </details>
   
