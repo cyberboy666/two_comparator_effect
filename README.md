@@ -5,7 +5,7 @@
 
 - this circuit is distributed by __UNDERSCORES__ - _an open video hardware label_ : it is availible to purchase - as a pcb, kit or assembled unit - at [underscores.shop](https://underscores.shop/two_comparator_effect/)
 - the schematic for the circuit can be found [here](/hardware/two_comparator_effect.pdf)
-- the pcb gerber files for the lastest version can be found [here](/hardware/two_comparator_effect_lastest.zip)
+- the pcb gerber files for the lastest version can be found [here](/hardware/two_comparator_effect_latest.zip)
 
 ## demo video
 
