@@ -113,7 +113,7 @@ follow this link to view the [interactive BOM](https://htmlpreview.github.io/?ht
   
 # operating guide
 
-![image](https://user-images.githubusercontent.com/12017938/150234966-67b0f5d4-711c-4035-80de-fe90b5892603.png)
+  ![image](https://user-images.githubusercontent.com/12017938/152089017-3b2bcf51-c725-48ac-adf9-8fc9530a3fab.png)
 
 - To set up using the circuit plug an active video source into composite video input and a display into composite video output (flipping the bypass switch should show the raw video source passing through the circuit to the display)
 
