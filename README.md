@@ -37,9 +37,10 @@ this project is fully _open-source hardware_ - all the files required to build i
 
 depending on whether you are going fully diy or buying an assembled and tested unit, some of the following guides will be relavent to you. the flow would be:
 
+## ordering parts
+
 <details><summary><b>parts sourcing guide (w/ notes on pcb fabracation )</b> - start here if you are building fully from scatch or have purchased a pcb</summary>
   
-# ordering parts
 
 i try to source all the parts i can from either:
 - [tayda](https://www.taydaelectronics.com/) ; cheaper for common parts like resistors etc, also good for mechanical parts like switches and buttons
@@ -75,9 +76,9 @@ i often use jlcpcb because they are reliable, cheap and give you an option of co
 
   </details>
   
-<details><summary><b>assembly guide</b> - start here if you have purchased a diy kit</summary>
+## assembly guide
   
-# assembly guide
+<details><summary><b>assembly guide</b> - start here if you have purchased a diy kit</summary>
 
 ## interactive BOM for build guiding
 
@@ -108,10 +109,10 @@ follow this link to view the [interactive BOM](https://htmlpreview.github.io/?ht
 - finally lets place the control parts, starting with the power jack (can use something under the board to balance it while you solder), next place the rca jacks and pots. be generous with the solder here -> this is to strengthen the mechanical connections as well as making electrical ones
   
 </details>
+
+## operating guide
   
 <details><summary><b>operating guide</b> - start here if you have purchased an assembled unit</summary>
-  
-# operating guide
 
   ![image](https://user-images.githubusercontent.com/12017938/152089017-3b2bcf51-c725-48ac-adf9-8fc9530a3fab.png)
 
