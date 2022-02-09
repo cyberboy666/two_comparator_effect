@@ -4,7 +4,7 @@ EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
-Title "Two Comparator Effect"
+Title "two_comparator_effect"
 Date "2022-01-21"
 Rev "v0_3_1"
 Comp "original design by Rob Schafer"
