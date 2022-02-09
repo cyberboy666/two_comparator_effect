@@ -10,11 +10,7 @@
 
 ## demo video
 
-[coming soon]
-
-## gallery
-
-[coming soon]
+[![image](https://user-images.githubusercontent.com/12017938/153121223-3dfda130-a8e7-405d-b214-ceade0454927.png)](https://videos.scanlines.xyz/w/t1Ht54aVoeiCa2ZGb4LRMV)
 
 
 # background
