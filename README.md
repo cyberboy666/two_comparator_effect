@@ -13,7 +13,10 @@
 [![image](https://user-images.githubusercontent.com/12017938/153121223-3dfda130-a8e7-405d-b214-ceade0454927.png)](https://videos.scanlines.xyz/w/t1Ht54aVoeiCa2ZGb4LRMV)
 
 
-# background
+## background
+
+<details>
+<summary>background</summary>
 
 Rob Schafer designed the original version of this circuit in his excellent [whiteboard schoolhouse](https://www.youtube.com/watch?v=9HMj0sfPa0w&list=PLoNU5z_Oqfgj1xfSBMg6XaIhAX2ftyfkN) youtube series.
 
@@ -27,6 +30,8 @@ It was updated and adapted to pcb by cyberboy666 as open-source hardware with he
 
 robs original circuit, the schematic and effect shown here 
 
+</details>
+  
 # documentation
 
 this project is fully _open-source hardware_ - all the files required to build it are included in this repo for free. if you have the time and/or skill you can contribute back by collaborating on / testing new designs, improving these docs, making demo videos/other creative content etc. you can also support the project financially by [donating](https://liberapay.com/underscores/) directing, or purchasing through the [web shop](https://underscores.shop).
