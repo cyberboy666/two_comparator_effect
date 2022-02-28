@@ -1,5 +1,5 @@
 sku,qty,ref,val
-A-321,3,C3 C2 C1 ,1u,tayda
+A-321,3,C1 C2 C3 ,1u,tayda
 A-214,1,C4 ,0.1u,tayda
 A-615,1,D1 ,1n914,tayda
 A-4118,1,J3 ,Barrel_Jack,tayda
@@ -8,12 +8,13 @@ A-2190,1,R11 ,47,tayda
 A-2247,1,R12 ,470,tayda
 A-2278,1,R13 ,180,tayda
 A-2202,1,R14 ,1.5k,tayda
-A-2200,2,R15 R2 ,1k,tayda
+A-2200,2,R2 R15 ,1k,tayda
 A-2245,1,R16 ,100,tayda
-A-2310,2,R5 R1 ,4.7k,tayda
+A-2310,2,R1 R5 ,4.7k,tayda
 A-2281,1,R6 ,680,tayda
-A-2201,3,R7 R4 R3 ,1.2k,tayda
+A-2201,3,R3 R4 R7 ,1.2k,tayda
 A-2193,2,R8 R10 ,75,tayda
 A-2210,1,R9 ,150k,tayda
+A-4568,1,SW1 ,SW_DPDT_x2,tayda
 A-022,1,U1 ,LM339,tayda
 A-500,1,U2 ,LM317,tayda
