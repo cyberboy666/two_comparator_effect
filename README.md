@@ -99,7 +99,7 @@ follow this link to view the [interactive BOM](https://htmlpreview.github.io/?ht
 - next i would do diodes, transistors and ic's - taking care that these are placed in the right direction (using a ic socket can be useful)
 - finally i place the interface parts - rca jacks, power jack, pots and switches - make sure these have lots of solder on for structural stablity
 
-## slightly more specific assembly advice
+## specific assembly advice
 
 - start with the resistors, taking care place the correct value in the correct footprint (if you are unsure of the value can use an online resistor calculator ) , direction does not matter. Place a few resistors in (as many as you are comfortable with) then solder and trim legs
 
