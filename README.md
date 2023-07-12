@@ -6,7 +6,8 @@
 - this circuit is distributed by __UNDERSCORES__ - _an open video hardware label_ : it is available to purchase - as a pcb, kit or assembled unit - at [underscores.shop](https://underscores.shop/two_comparator_effect/)
 - the schematic for the circuit can be found [here](/hardware/schematic.pdf)
 - the pcb gerber files for the lastest version can be found [here](/hardware/gerber_latest.zip)
-- consider [donating](https://liberapay.com/underscores/) to the underscores project to help us continue creating for the commons
+- interactive BOM is [here](https://htmlpreview.github.io/?https://github.com/cyberboy666/two_comparator_effect/blob/main/hardware/bom/ibom.html)
+- consider [donating](https://opencollective.com/underscores) to the underscores project to help us continue creating for the commons
 
 ## demo video
 
@@ -34,7 +35,7 @@ robs original circuit, the schematic and effect shown here
   
 # documentation
 
-this project is fully _open-source hardware_ - all the files required to build it are included in this repo for free. if you have the time and/or skill you can contribute back by collaborating on / testing new designs, improving these docs, making demo videos/other creative content etc. you can also support the project financially by [donating](https://liberapay.com/underscores/) directing, or purchasing through the [web shop](https://underscores.shop).
+this project is fully _open-source hardware_ - all the files required to build it are included in this repo for free. if you have the time and/or skill you can contribute back by collaborating on / testing new designs, improving these docs, making demo videos/other creative content etc. you can also support the project financially by [donating](https://opencollective.com/underscores) directing, or purchasing through the [web shop](https://underscores.shop).
 
 depending on whether you are going fully diy or buying an assembled and tested unit, some of the following guides will be relavent to you. the flow would be:
 
@@ -53,7 +54,7 @@ take a look at the [full_bom](/hardware/bom/full_bom.csv) for this project to se
 ## import into tayda
 
 - go to the [tayda quick order](https://www.taydaelectronics.com/quick-order/) and in bottom corner choose _add from file_
-- select the file [tayda_bom.csv](../hardware/bom/tayda_bom.csv) in the BOM folder (you will have to download it first or clone this repo)
+- select the file [tayda_bom.csv](./hardware/bom/tayda_bom.csv) in the BOM folder (you will have to download it first or clone this repo)
 - after importing select _add to cart_
 - __NOTE:__ the minimum value for resistors is 10, so you may need to modify these values to add to cart (or if they are already modified here you will need to see the  full_bom for actual part QTY) 
 
@@ -62,7 +63,7 @@ take a look at the [full_bom](/hardware/bom/full_bom.csv) for this project to se
 ## import into mouser
 
 - go to [mouser bom tool](https://nz.mouser.com/Bom/) and click _upload spreadsheet_
-- select the file [mouser_bom.csv](../hardware/bom/mouser_bom.csv) in this folder (you will have to download it first or clone this repo), then _upload my spreadsheet_ and _next_
+- select the file [mouser_bom.csv](./hardware/bom/mouser_bom.csv) in this folder (you will have to download it first or clone this repo), then _upload my spreadsheet_ and _next_
 - ensure that __Mouser Part Number__ is selected in the dropdown above the first row, then _next_, _process_
 - if everything looks correct can now put _add to basket_
 
