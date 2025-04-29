@@ -1,6 +1,6 @@
 # enclosure guide
 
-we now offer two kinds of enclosures for these projects:
+we now offer two kinds of enclosures for this project:
 
 - __stand-alone enclosure__ - made from a front and back panel, plus screws and standoffs
 
